@@ -35,7 +35,7 @@ class Perm:
 
 ans = Perm()
 str1 = "ab"
-str2 =  "asdkasdk"
+str2 = "asdkasdk"
 result = ans.is_permuatations(str1, str2)
 
 if result:
